@@ -1,2 +1,2 @@
-# web_scrapping
+# web_scraping
 Contains scripts to scrap comics and wallpapers from popular websites 
